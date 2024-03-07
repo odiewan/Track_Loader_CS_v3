@@ -1,7 +1,7 @@
-77#include <Arduino.h>
-#include <Servo.h>
+#include <Arduino.h>
+
 #include <serialPrint.h>
-#include <abstractLIS3MDL.h>
+// #include <abstractLIS3MDL.h>
 #include <rxToSrvo.h>
 
 #define RX_CH0_PIN 23 //---El   Th
