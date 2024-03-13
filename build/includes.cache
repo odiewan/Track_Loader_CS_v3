@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Odie\\AppData\\Local\\Arduino15\\packages\\teensy\\hardware\\avr\\1.59.0\\cores\\teensy3"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Odie\\source\\repos\\Arduino Projects\\Track_Loader_CS_v3\\build\\sketch\\Track_Loader_CS_v3.ino.cpp",
+    "Include": "serialPrint.h",
+    "Includepath": "C:\\Users\\Odie\\Documents\\Arduino\\libraries\\serialPrint"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Odie\\source\\repos\\Arduino Projects\\Track_Loader_CS_v3\\build\\sketch\\Track_Loader_CS_v3.ino.cpp",
+    "Include": "PWMServo.h",
+    "Includepath": "C:\\Users\\Odie\\Documents\\Arduino\\libraries\\PWMServo"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Odie\\source\\repos\\Arduino Projects\\Track_Loader_CS_v3\\build\\sketch\\Track_Loader_CS_v3.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Odie\\Documents\\Arduino\\libraries\\serialPrint\\serialPrint.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Odie\\Documents\\Arduino\\libraries\\PWMServo\\PWMServo.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

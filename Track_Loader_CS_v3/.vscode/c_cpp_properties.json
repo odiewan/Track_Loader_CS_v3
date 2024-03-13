@@ -13,10 +13,9 @@
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                "C:\\Users\\Odie\\AppData\\Local\\Temp\\arduino\\sketches\\A904A0FE8E049665EE2D6C907D66F9B9\\pch",
+                "C:\\Users\\Odie\\source\\repos\\Arduino Projects\\Track_Loader_CS_v3\\build\\pch",
                 "C:\\Users\\Odie\\AppData\\Local\\Arduino15\\packages\\teensy\\hardware\\avr\\1.59.0\\cores\\teensy3",
                 "C:\\Users\\Odie\\Documents\\Arduino\\libraries\\serialPrint",
-                "C:\\Users\\Odie\\Documents\\Arduino\\libraries\\rxToSrvo",
                 "C:\\Users\\Odie\\Documents\\Arduino\\libraries\\PWMServo",
                 "c:\\users\\odie\\appdata\\local\\arduino15\\packages\\teensy\\tools\\teensy-compile\\11.3.1\\arm\\arm-none-eabi\\include\\c++\\11.3.1",
                 "c:\\users\\odie\\appdata\\local\\arduino15\\packages\\teensy\\tools\\teensy-compile\\11.3.1\\arm\\arm-none-eabi\\include\\c++\\11.3.1\\arm-none-eabi",
@@ -26,7 +25,7 @@
                 "c:\\users\\odie\\appdata\\local\\arduino15\\packages\\teensy\\tools\\teensy-compile\\11.3.1\\arm\\arm-none-eabi\\include"
             ],
             "forcedInclude": [
-                "C:\\Users\\Odie\\AppData\\Local\\Temp\\arduino\\sketches\\A904A0FE8E049665EE2D6C907D66F9B9\\pch\\Arduino.h"
+                "C:\\Users\\Odie\\source\\repos\\Arduino Projects\\Track_Loader_CS_v3\\build\\pch\\Arduino.h"
             ],
             "cStandard": "c11",
             "cppStandard": "c++17",

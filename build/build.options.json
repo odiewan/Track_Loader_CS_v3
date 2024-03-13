@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "teensy:avr:teensy31:usb=serial,speed=96,opt=o2std,keys=en-us",
+  "hardwareFolders": "C:\\Users\\Odie\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Odie\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\Odie\\source\\repos\\Arduino Projects\\Track_Loader_CS_v3\\Track_Loader_CS_v3"
+}
